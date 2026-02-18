@@ -50,22 +50,22 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="1_movmMzjGOyoIPaQjv8JsWQ.gif"/>
-</p>
-
-
----
-
 ## 🧩 What I Like Building
 - Authentication & Authorization systems
 - Scalable background workers
 - API performance optimization
 - Search systems
 - Production debugging & monitoring
+
+---
+
+## 📊 GitHub
+
+
+<p align="center">
+  <img src="1_movmMzjGOyoIPaQjv8JsWQ.gif"/>
+</p>
+
 
 ---
 
