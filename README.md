@@ -1,16 +1,88 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,100:2c5364&text=Melih%20Necati%20Karabunar&fontColor=ffffff&fontSize=42&section=header"/>
 
-<!--
-**melihnecatikarabunar/melihnecatikarabunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Backend Engineer • Python • Distributed Systems</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/melihnecatikarabunar">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/melih-necati-karabunar-4945bb20b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=melihnecatikarabunar&style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 About Me
+- High performance backend APIs (FastAPI / Flask)
+- Distributed job systems (RabbitMQ + Celery)
+- Caching strategies (Redis)
+- Data & search systems (MongoDB, Elasticsearch)
+- Reliability, logging, monitoring & debugging mindset
+- Security-first architecture thinking
+
+---
+
+## 🧰 Core Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask&logoColor=white)
+
+### Async / Queue / Cache
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Databases / Search
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📌 Highlighted Projects
+> Buraya kendi repolarını koy
+
+- 🔗 https://github.com/melihnecatikarabunar/PROJECT1
+- 🔗 https://github.com/melihnecatikarabunar/PROJECT2
+- 🔗 https://github.com/melihnecatikarabunar/PROJECT3
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melihnecatikarabunar&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihnecatikarabunar&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihnecatikarabunar&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧩 What I Like Building
+- Authentication & Authorization systems
+- Scalable background workers
+- API performance optimization
+- Search systems
+- Production debugging & monitoring
+
+---
+
+<h3 align="center">“Write code like it will run for 10 years.”</h3>
