@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melihnecatikarabunar&style=for-the-badge"/>
+  <img src="images/1_movmMzjGOyoIPaQjv8JsWQ.gif"/>
 </p>
 
 ---
