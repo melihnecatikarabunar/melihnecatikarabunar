@@ -47,16 +47,6 @@
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 📌 Highlighted Projects
-> Buraya kendi repolarını koy
-
-- 🔗 https://github.com/melihnecatikarabunar/PROJECT1
-- 🔗 https://github.com/melihnecatikarabunar/PROJECT2
-- 🔗 https://github.com/melihnecatikarabunar/PROJECT3
 
 ---
 
@@ -85,4 +75,3 @@
 
 ---
 
-<h3 align="center">“Write code like it will run for 10 years.”</h3>
