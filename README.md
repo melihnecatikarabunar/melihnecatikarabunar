@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihnecatikarabunar&theme=tokyonight"/>
+  <img src="1_movmMzjGOyoIPaQjv8JsWQ.gif"/>
 </p>
 
 
